@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "g topstories remover",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "g topstories remover",
+    "description": "The description of the application"
+  }
+}
